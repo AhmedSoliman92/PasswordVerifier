@@ -1,0 +1,57 @@
+package passwordVerifier;
+
+import java.util.regex.Pattern;
+
+import passwordExceptions.PasswordShouldBeLargerThanEight_Exception;
+import passwordExceptions.PasswordShouldHaveOneLowerCaseAtLeast_Exception;
+import passwordExceptions.PasswordShouldHaveOneNumberAtLeast_Exception;
+import passwordExceptions.PasswordShouldHaveOneUpperCaseLetterAtLeast_Exception;
+
+	
+	public class PasswordVerifier{
+		
+		public boolean verify(String password) throws PasswordShouldBeLargerThanEight_Exception,PasswordShouldHaveOneUpperCaseLetterAtLeast_Exception,PasswordShouldHaveOneLowerCaseAtLeast_Exception,PasswordShouldHaveOneNumberAtLeast_Exception {
+			if(password==null) {
+				throw new IllegalArgumentException("password should not be null");
+			}
+			verifyPasswordLargerThanEight(password);
+			verifyPasswordHasOneUpperCaseLetterAtLeast(password);
+			verifyPasswordHasOneLowerCaseAtLeast(password);
+			verifyPasswordHasOneNumberAtLeast(password);
+			 return true;
+			
+		}
+
+		
+		public boolean verifyPasswordLargerThanEight(String password)throws PasswordShouldBeLargerThanEight_Exception {
+			if(password.length()>=9) {
+				return true;
+			}
+			throw new PasswordShouldBeLargerThanEight_Exception("password should be larger than 8 chars");
+		}
+		
+		public boolean verifyPasswordHasOneUpperCaseLetterAtLeast(String password)throws PasswordShouldHaveOneUpperCaseLetterAtLeast_Exception {
+			for(int i=0;i<password.length();i++) {
+				if(Character.isUpperCase(password.charAt(i))){
+					return true;
+				}
+			}
+			throw new PasswordShouldHaveOneUpperCaseLetterAtLeast_Exception("password should have one uppercase letter at least");
+		}
+		
+		public boolean verifyPasswordHasOneLowerCaseAtLeast(String password) throws PasswordShouldHaveOneLowerCaseAtLeast_Exception {
+			for(int i=0;i<password.length();i++) {
+				if(Character.isLowerCase(password.charAt(i))){
+					return true;
+				}
+			}
+			throw new PasswordShouldHaveOneLowerCaseAtLeast_Exception("password should have one lowercase letter at least");
+		}
+		public boolean verifyPasswordHasOneNumberAtLeast(String password) throws PasswordShouldHaveOneNumberAtLeast_Exception {
+			Pattern digitCasePatten = Pattern.compile("[0-9]");
+			if(digitCasePatten.matcher(password).find()) {
+				return true;
+			}
+			throw new PasswordShouldHaveOneNumberAtLeast_Exception("password should have one number at least");	
+		}	
+}

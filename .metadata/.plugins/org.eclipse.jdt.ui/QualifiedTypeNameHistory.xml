@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="junit.framework.Assert"/>
+<fullyQualifiedTypeName name="passwordVerifier.PasswordVerifier"/>
+<fullyQualifiedTypeName name="passwordVerifier.PasswordVerifier.InnerPasswordVerifier"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="java.util.stream.Collectors"/>
+<fullyQualifiedTypeName name="passwordExceptions.PasswordShouldBeLargerThanEight_Exception"/>
+<fullyQualifiedTypeName name="passwordExceptions.PasswordShouldHaveOneUpperCaseLetterAtLeast_Exception"/>
+<fullyQualifiedTypeName name="passwordExceptions.PasswordShouldHaveOneLowerCaseAtLeast_Exception"/>
+<fullyQualifiedTypeName name="passwordExceptions.PasswordShouldHaveOneNumberAtLeast_Exception"/>
+<fullyQualifiedTypeName name="java.util.regex.Pattern"/>
+<fullyQualifiedTypeName name="password_Exceptions.PasswordShouldHaveOneNumberAtLeastException"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+</qualifiedTypeNameHistroy>

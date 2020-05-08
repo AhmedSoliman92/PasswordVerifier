@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1d080f74-f11f-4fff-b677-2b4b17649dc7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1bFPaVZXcCSZDNW1E6a95MKKCSS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Password Verifier" type="AndroidJUnit" factoryName="Android JUnit">
+      <useClassPathOnly />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <useClassPathOnly />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d080f74-f11f-4fff-b677-2b4b17649dc7" name="Default Changelist" comment="" />
+      <created>1588224931545</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588224931545</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="365" y="74" key="#Password_Verifier" timestamp="1588225354942">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="365" y="74" key="#Password_Verifier/0.0.1536.834@0.0.1536.834" timestamp="1588225354942" />
+    <state x="365" y="74" key="#Unnamed" timestamp="1588225319459">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="365" y="74" key="#Unnamed/0.0.1536.834@0.0.1536.834" timestamp="1588225319459" />
+    <state x="232" y="92" width="1089" height="742" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588225299379">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="232" y="92" width="1089" height="742" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1588225299379" />
+    <state x="501" y="159" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1588225012053">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="501" y="159" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.834@0.0.1536.834" timestamp="1588225012053" />
+    <state x="503" y="178" key="EnvironmentVariablesDialog" timestamp="1588225341928">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="503" y="178" key="EnvironmentVariablesDialog/0.0.1536.834@0.0.1536.834" timestamp="1588225341928" />
+    <state x="0" y="0" key="SettingsEditor" timestamp="1588225175398">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="0" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1588225175398" />
+    <state x="672" y="205" key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey" timestamp="1588225271189">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="672" y="205" key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey/0.0.1536.834@0.0.1536.834" timestamp="1588225271189" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/PassowrdVarifier/src/test/java/passwordVerifier/PasswordVerifierTest.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Password_Verifier$Password_Verifier.ic" NAME="Password Verifier Coverage Results" MODIFIED="1588225376030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

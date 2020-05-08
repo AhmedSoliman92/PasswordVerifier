@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="PassowrdVarifier" project="PassowrdVarifier" tests="14" started="14" failures="0" errors="0" ignored="0">
+  <testsuite name="passwordVerifier.PasswordVerifierTest" time="0.008">
+    <testcase name="testVerifyPasswordHasOneUpperCaseLetterAtLeast_Exception" classname="passwordVerifier.PasswordVerifierTest" time="0.005"/>
+    <testcase name="testVerifyPasswordHasOneNumberAtLeast" classname="passwordVerifier.PasswordVerifierTest" time="0.0"/>
+    <testcase name="testVerifyPasswordHasOneLowerCaseLetterAtLeast_Exception" classname="passwordVerifier.PasswordVerifierTest" time="0.001"/>
+    <testcase name="testVerifyPasswordHasOneUpperCaseLetterAtLeast" classname="passwordVerifier.PasswordVerifierTest" time="0.0"/>
+    <testcase name="PasswordIsOKNoLowerNoNumberNoLarger" classname="passwordVerifier.PasswordVerifierTest" time="0.0"/>
+    <testcase name="testVerifyPasswordLargerThanEight" classname="passwordVerifier.PasswordVerifierTest" time="0.0"/>
+    <testcase name="testVerifyPasswordLargerThanEight_Exception" classname="passwordVerifier.PasswordVerifierTest" time="0.0"/>
+    <testcase name="testVerifyPasswordIsNotNullException" classname="passwordVerifier.PasswordVerifierTest" time="0.0"/>
+    <testcase name="testVerifyPasswordShouldHaveOneNumberAtLeast_Exception" classname="passwordVerifier.PasswordVerifierTest" time="0.0"/>
+    <testcase name="testVerifyPasswordIsNotNull" classname="passwordVerifier.PasswordVerifierTest" time="0.001"/>
+    <testcase name="PasswordIsOKUpperAndLowerAndLargerAndNumber" classname="passwordVerifier.PasswordVerifierTest" time="0.0"/>
+    <testcase name="PasswordIsOK" classname="passwordVerifier.PasswordVerifierTest" time="0.0"/>
+    <testcase name="PasswordIsNeverOK" classname="passwordVerifier.PasswordVerifierTest" time="0.0"/>
+    <testcase name="testVerifyPasswordHasOneLowerCaseAtLeast" classname="passwordVerifier.PasswordVerifierTest" time="0.001"/>
+  </testsuite>
+</testrun>

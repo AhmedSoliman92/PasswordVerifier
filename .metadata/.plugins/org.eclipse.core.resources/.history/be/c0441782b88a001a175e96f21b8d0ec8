@@ -1,0 +1,63 @@
+package passwordVerifier;
+import static org.junit.Assert.assertEquals;
+
+import org.junit.Test;
+
+import passwordExceptions.PasswordShouldBeLargerThanEight_Exception;
+import passwordExceptions.PasswordShouldHaveOneLowerCaseAtLeast_Exception;
+import passwordExceptions.PasswordShouldHaveOneNumberAtLeast_Exception;
+import passwordExceptions.PasswordShouldHaveOneUpperCaseLetterAtLeast_Exception;
+
+
+public class PasswordVerifierTest {
+	@Test(expected = IllegalArgumentException.class)
+	public void  verifyPasswordIsNotNullException() throws IllegalArgumentException, PasswordShouldBeLargerThanEight_Exception, PasswordShouldHaveOneUpperCaseLetterAtLeast_Exception, PasswordShouldHaveOneLowerCaseAtLeast_Exception, PasswordShouldHaveOneNumberAtLeast_Exception {
+		PasswordVerifier passwordVerifier=new PasswordVerifier();
+		passwordVerifier.verify(null);
+	}
+	@Test
+	public void  verifyPasswordIsNotNull() throws IllegalArgumentException, PasswordShouldBeLargerThanEight_Exception, PasswordShouldHaveOneUpperCaseLetterAtLeast_Exception, PasswordShouldHaveOneLowerCaseAtLeast_Exception, PasswordShouldHaveOneNumberAtLeast_Exception {
+		PasswordVerifier passwordVerifier=new PasswordVerifier();
+		assertEquals("ahmed123R",passwordVerifier.verify("ahmed123R"));
+	}
+	@Test
+	public void verifyPasswordLargerThanEight() throws PasswordShouldBeLargerThanEight_Exception {
+		PasswordVerifier passwordVerifier=new PasswordVerifier();
+		assertEquals("ahmed1234",passwordVerifier.verifyPasswordLargerThanEight("ahmed1234"));
+	}
+	@Test(expected = PasswordShouldBeLargerThanEight_Exception.class)
+	public void verifyPasswordLargerThanEight_Exception() throws PasswordShouldBeLargerThanEight_Exception {
+			PasswordVerifier passwordVerifier=new PasswordVerifier();
+			passwordVerifier.verifyPasswordLargerThanEight("ahmed");
+	}
+	@Test
+	public void verifyPasswordHasOneUpperCaseLetterAtLeast() throws PasswordShouldHaveOneUpperCaseLetterAtLeast_Exception {
+		PasswordVerifier passwordVerifier=new PasswordVerifier();
+		passwordVerifier.verifyPasswordHasOneUpperCaseLetterAtLeast("Ahmed");
+		}
+	@Test
+	public void verifyPasswordHasOneUpperCaseLetterAtLeast_Exception() throws PasswordShouldHaveOneUpperCaseLetterAtLeast_Exception {
+		PasswordVerifier passwordVerifier=new PasswordVerifier();
+		passwordVerifier.verifyPasswordHasOneUpperCaseLetterAtLeast("ahmed");
+		}
+	@Test
+	public void verifyPasswordHasOneLowerCaseAtLeast() throws PasswordShouldHaveOneLowerCaseAtLeast_Exception {
+		PasswordVerifier passwordVerifier=new PasswordVerifier();
+		assertEquals("aHMED",passwordVerifier.verifyPasswordHasOneLowerCaseAtLeast("aHMED"));
+	}
+	@Test
+	public void verifyPasswordHasOneLowerCaseLetterAtLeast_Exception() throws PasswordShouldHaveOneLowerCaseAtLeast_Exception {
+		PasswordVerifier passwordVerifier=new PasswordVerifier();
+		passwordVerifier.verifyPasswordHasOneLowerCaseAtLeast("AHMED");
+		}
+	@Test
+	public void verifyPasswordHasOneNumberAtLeast() throws PasswordShouldHaveOneNumberAtLeast_Exception{
+		PasswordVerifier passwordVerifier=new PasswordVerifier();
+		passwordVerifier.verifyPasswordHasOneNumberAtLeast("ahmed1234");
+	}
+	@Test(expected = PasswordShouldHaveOneNumberAtLeast_Exception.class)
+    public void testInvalidPasswordLengthException() throws PasswordShouldHaveOneNumberAtLeast_Exception {
+        PasswordVerifier passVerify = new PasswordVerifier();
+        passVerify.verifyPasswordHasOneNumberAtLeast("abc");
+    }
+}

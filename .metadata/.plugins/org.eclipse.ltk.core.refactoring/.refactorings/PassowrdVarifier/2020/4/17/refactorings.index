@@ -1,0 +1,11 @@
+1587584453308	Rename type 'PasswordVarifier'
+1587584504225	Rename package 'passwordVarifier'
+1587586479411	Delete element
+1587586493033	Infer generic type arguments
+1587586524047	Copy compilation unit
+1587586536157	Delete element
+1587664819316	Rename compilation unit 'PasswordShouldBeLargerThanEigt.java'
+1587664859549	Rename package 'exceptionPassword'
+1587666575993	Rename compilation unit 'PasswordShouldHaveOneUpperCaseLetterAtLeast.java'
+1587667139916	Rename type 'PasswordHasOneLowerCaseAtLeast_Exception'
+1587667247298	Rename type 'PasswordShouldHaveOneNumberAtLeast'
