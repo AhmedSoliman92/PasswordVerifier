@@ -1,8 +1,0 @@
-package passwordExceptions;
-
-
-public class PasswordShouldHaveOneNumberAtLeast_Exception extends Throwable{
-	public PasswordShouldHaveOneNumberAtLeast_Exception(String message) {
-		super(message);
-	}
-}

@@ -1335,3 +1335,227 @@
 2020-05-08 07:13:11,485 [Worker-11: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2020-05-08 07:13:11,486 [Worker-11: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2020-05-08 07:13:11,492 [Worker-11: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-08 08:36:59,134 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-05-08 08:44:00,577 [Worker-11: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-08 08:44:00,588 [Worker-11: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-08 08:44:00,591 [Worker-11: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-08 08:44:00,596 [Worker-11: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-08 09:03:49,043 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-08 09:03:49,052 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-08 09:03:49,055 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-08 09:03:49,062 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-08 09:04:59,887 [Worker-23: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-08 09:04:59,893 [Worker-23: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-08 09:04:59,894 [Worker-23: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-08 09:04:59,902 [Worker-23: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-08 09:05:15,706 [Worker-23: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-08 09:05:15,715 [Worker-23: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-08 09:05:15,716 [Worker-23: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-08 09:05:15,725 [Worker-23: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-08 09:07:26,925 [Worker-29: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-08 09:07:26,931 [Worker-29: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-08 09:07:26,932 [Worker-29: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-08 09:07:26,940 [Worker-29: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-08 09:08:41,374 [Worker-29: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-08 09:08:41,384 [Worker-29: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-08 09:08:41,385 [Worker-29: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-08 09:08:41,393 [Worker-29: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-08 09:09:44,911 [Worker-29: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-08 09:09:44,923 [Worker-29: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-08 09:09:44,926 [Worker-29: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-08 09:09:44,934 [Worker-29: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-08 09:14:11,614 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-08 09:14:11,625 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-08 09:14:11,628 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-08 09:14:11,635 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-08 09:15:51,873 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-08 09:15:51,879 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-08 09:15:51,881 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-08 09:15:51,886 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-08 09:17:04,851 [Worker-31: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-08 09:17:04,859 [Worker-31: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-08 09:17:04,878 [Worker-31: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-08 09:17:04,885 [Worker-31: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-08 09:18:01,950 [Worker-11: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-08 09:18:01,957 [Worker-11: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-08 09:18:01,958 [Worker-11: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-08 09:18:01,966 [Worker-11: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-08 09:18:18,888 [Worker-11: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-08 09:18:18,894 [Worker-11: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-08 09:18:18,896 [Worker-11: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-08 09:18:18,904 [Worker-11: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-08 09:18:34,090 [Worker-23: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-08 09:18:34,099 [Worker-23: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-08 09:18:34,100 [Worker-23: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-08 09:18:34,110 [Worker-23: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-08 09:19:40,712 [Worker-23: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-08 09:19:40,722 [Worker-23: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-08 09:19:40,723 [Worker-23: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-08 09:19:40,731 [Worker-23: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-08 09:21:43,334 [Worker-32: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-08 09:21:43,341 [Worker-32: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-08 09:21:43,342 [Worker-32: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-08 09:21:43,349 [Worker-32: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-08 09:22:57,474 [Worker-11: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-08 09:22:57,482 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-08 09:22:57,485 [Worker-11: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-08 09:22:57,493 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-08 09:26:10,002 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-08 09:26:10,010 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-08 09:26:10,011 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-08 09:26:10,016 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-08 17:46:05,720 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-05-10 23:55:58,738 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-05-10 23:56:17,246 [Worker-10: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-10 23:56:17,255 [Worker-10: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-10 23:56:17,257 [Worker-10: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-10 23:56:17,263 [Worker-10: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-10 23:56:43,535 [Worker-18: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-10 23:56:43,544 [Worker-18: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-10 23:56:43,546 [Worker-18: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-10 23:56:43,562 [Worker-18: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-10 23:57:25,881 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-10 23:57:25,891 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-10 23:57:25,892 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-10 23:57:25,900 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 00:00:50,233 [Worker-7: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 00:00:50,245 [Worker-7: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 00:00:50,246 [Worker-7: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 00:00:50,253 [Worker-7: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 00:03:36,114 [Worker-9: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 00:03:36,125 [Worker-9: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 00:03:36,125 [Worker-9: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 00:03:36,132 [Worker-9: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 04:40:07,882 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-05-11 04:43:08,747 [Worker-13: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 04:43:08,758 [Worker-13: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 04:43:08,760 [Worker-13: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 04:43:08,766 [Worker-13: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 04:47:30,876 [Worker-16: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 04:47:30,887 [Worker-16: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 04:47:30,888 [Worker-16: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 04:47:30,896 [Worker-16: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 04:48:04,319 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 04:48:04,326 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 04:48:04,327 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 04:48:04,334 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 04:54:34,592 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 04:54:34,599 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 04:54:34,600 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 04:54:34,607 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 05:01:50,688 [Worker-10: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 05:01:50,699 [Worker-10: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 05:01:50,700 [Worker-10: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 05:01:50,710 [Worker-10: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 05:02:56,899 [Worker-10: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 05:02:56,905 [Worker-10: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 05:02:56,906 [Worker-10: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 05:02:56,915 [Worker-10: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 05:03:20,369 [Worker-26: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 05:03:20,377 [Worker-26: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 05:03:20,379 [Worker-26: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 05:03:20,386 [Worker-26: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 05:04:14,384 [Worker-6: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 05:04:14,395 [Worker-6: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 05:04:14,398 [Worker-6: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 05:04:14,407 [Worker-6: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 05:08:11,784 [Worker-27: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 05:08:11,792 [Worker-27: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 05:08:11,794 [Worker-27: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 05:08:11,803 [Worker-27: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 05:08:53,775 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 05:08:53,782 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 05:08:53,783 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 05:08:53,789 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 05:09:22,664 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 05:09:22,671 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 05:09:22,672 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 05:09:22,679 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 05:11:58,874 [Worker-29: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 05:11:58,881 [Worker-29: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 05:11:58,882 [Worker-29: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 05:11:58,890 [Worker-29: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 05:12:45,121 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 05:12:45,128 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 05:12:45,129 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 05:12:45,135 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 05:13:24,013 [Worker-29: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 05:13:24,020 [Worker-29: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 05:13:24,021 [Worker-29: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 05:13:24,028 [Worker-29: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 05:14:49,171 [Worker-30: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 05:14:49,179 [Worker-30: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 05:14:49,180 [Worker-30: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 05:14:49,187 [Worker-30: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 05:16:06,458 [Worker-24: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 05:16:06,465 [Worker-24: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 05:16:06,468 [Worker-24: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 05:16:06,474 [Worker-24: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 05:16:36,318 [Worker-28: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 05:16:36,326 [Worker-28: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 05:16:36,327 [Worker-28: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 05:16:36,333 [Worker-28: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 05:17:29,264 [Worker-30: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 05:17:29,272 [Worker-30: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 05:17:29,274 [Worker-30: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 05:17:29,282 [Worker-30: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 05:18:00,581 [Worker-6: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 05:18:00,587 [Worker-6: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 05:18:00,589 [Worker-6: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 05:18:00,598 [Worker-6: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 05:18:11,299 [Worker-25: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 05:18:11,305 [Worker-25: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 05:18:11,306 [Worker-25: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 05:18:11,313 [Worker-25: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 05:18:44,382 [Worker-7: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 05:18:44,392 [Worker-7: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 05:18:44,393 [Worker-7: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 05:18:44,400 [Worker-7: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 05:19:30,308 [Worker-25: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 05:19:30,314 [Worker-25: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 05:19:30,315 [Worker-25: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 05:19:30,322 [Worker-25: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 05:20:40,837 [Worker-25: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 05:20:40,845 [Worker-25: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 05:20:40,845 [Worker-25: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 05:20:40,853 [Worker-25: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 05:22:03,681 [Worker-28: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 05:22:03,688 [Worker-28: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 05:22:03,689 [Worker-28: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 05:22:03,695 [Worker-28: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 05:22:41,183 [Worker-30: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 05:22:41,189 [Worker-30: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 05:22:41,190 [Worker-30: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 05:22:41,198 [Worker-30: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 05:24:53,969 [Worker-7: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 05:24:53,976 [Worker-7: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 05:24:53,977 [Worker-7: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 05:24:53,983 [Worker-7: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 05:25:09,667 [Worker-6: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 05:25:09,675 [Worker-6: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 05:25:09,676 [Worker-6: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 05:25:09,681 [Worker-6: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 05:25:57,493 [Worker-6: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 05:25:57,502 [Worker-6: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 05:25:57,504 [Worker-6: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 05:25:57,512 [Worker-6: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 05:27:29,029 [Worker-30: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 05:27:29,035 [Worker-30: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 05:27:29,036 [Worker-30: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 05:27:29,043 [Worker-30: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 05:28:43,599 [Worker-25: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 05:28:43,606 [Worker-25: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 05:28:43,607 [Worker-25: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 05:28:43,613 [Worker-25: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 05:29:33,763 [Worker-30: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 05:29:33,772 [Worker-30: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 05:29:33,773 [Worker-30: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 05:29:33,779 [Worker-30: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 05:32:40,980 [Worker-34: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 05:32:40,986 [Worker-34: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 05:32:40,987 [Worker-34: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 05:32:40,996 [Worker-34: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 05:32:54,116 [Worker-25: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 05:32:54,122 [Worker-25: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 05:32:54,123 [Worker-25: Launching PassowrdVarifier] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-11 05:32:54,130 [Worker-25: Launching PassowrdVarifier] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
